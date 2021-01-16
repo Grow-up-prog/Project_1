@@ -1,0 +1,48 @@
+@media all and (max-width:670px)
+{
+    .wrapper-top{
+        padding-top: 120px;
+        background-size: cover;
+        height:300px;
+    }
+    .header{
+        height:45px;
+    }
+    .header-left{
+        height:45px;
+        width:85px;
+    }
+    .header-right a{
+        display: none;
+    }
+    .menu{
+        float:right;
+        display:block;
+        padding:15px;
+        color:rgb(255, 255, 255);
+    }
+    .body h1{
+        position: relative;:
+        float:center;
+        font-size: 35px;
+    }
+    .body p{
+        display:none;
+        font-size: 10px;
+        float:center;
+    }
+    .div-wrapper{
+        flex-wrap: wrap;
+        width:100%;
+        color:whitesmoke;
+        padding-top:5px;
+
+    }
+    .divisi-wrapper{
+        height:1000px;
+    }
+    .tag{
+        padding:12px;
+        font-size:15px;
+    }
+}
